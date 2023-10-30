@@ -1,0 +1,26 @@
+{
+    "produto":[
+        {
+            "id":1,
+            "titulo":"Teclado",
+            "quantidade":2,
+            "preco":  120.99
+        },
+         {
+            "id":2,
+            "titulo":"Mouse",
+            "quantidade":5,
+            "preco":  100.99
+        }
+    ],
+
+    "cliente":[
+        {
+            "nome":"Luis",
+            "idade": 40,
+            "altura":1.8
+        }
+    ]
+
+
+}
